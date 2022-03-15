@@ -13,7 +13,7 @@ import java.io.File;
 
 @RestController
 @RequestMapping("/api")
-public class Sample {
+public class ExcelRestController {
 
     @Autowired
     private Environment environment;
